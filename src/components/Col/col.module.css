@@ -1,0 +1,14 @@
+.col{
+    float: left;
+    padding: 10px;
+    height: 100%; /* Should be removed. Only for demonstration */
+    border-radius: 1px;
+    border: solid black;
+    border-top-color: darkblue;
+    border-bottom-color: darkgreen;
+    border-inline-end-color: darkorange;
+    border-inline-start-color: darkslateblue;
+    border-inline-end-color: darkorange;
+    background-color: lightblue;
+    color: darkred
+}
